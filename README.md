@@ -21,6 +21,12 @@
 
 ![Menú principal](menu.png)
 
+**Ingreso de número entero**
+
+![Número entero](numero.png)
+
+
+
 **Suma de dígitos**
 
 ![Suma de dígitos](suma.png)
