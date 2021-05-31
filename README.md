@@ -17,9 +17,13 @@
 
 ### Capturas
 
-**Menú principal**
+**Menú principal (antiguo)**
 
 ![Menú principal](menu.png)
+
+**Nuevo menú**
+
+![Nuevo Menú](newMenu.png)
 
 **Ingreso de número entero**
 
@@ -38,6 +42,10 @@
 **Creación de arreglo**
 
 ![Creación de arreglo](arreglo.png)
+
+**Mostrar arreglo**
+
+![Mostrar arreglo](showArray.png)
 
 **Número mayor del arreglo**
 
