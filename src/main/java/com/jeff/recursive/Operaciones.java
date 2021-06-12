@@ -31,7 +31,6 @@ public class Operaciones {
         }
         else{
             aux += String.format("%d", (num%10));
-            Integer.parseInt(aux);
             return invertir(num / 10, aux);
         }
     }
