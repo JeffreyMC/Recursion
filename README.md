@@ -1,3 +1,6 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/JeffreyMC16?style=social)
+![GitHub](https://img.shields.io/github/license/JeffreyMC/Recursion)
+
 # Operaciones matemáticas por medio de recursión
 
 * Suma de dígitos de un número entero
